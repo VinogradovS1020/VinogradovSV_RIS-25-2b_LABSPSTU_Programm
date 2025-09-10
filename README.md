@@ -1,1 +1,3 @@
-MAincraft - it's my LIFE
+# MINECRAFT
+## MAincraft - it's my LIFE
+### MINESILD
