@@ -2,6 +2,6 @@
 ## MAincraft - it's my LIFE
 ### MINESILD
 *Gensin Impact*
-# **Mavuika**
+ **Mavuika**
 # NAT*L*AN
 ~NET~
