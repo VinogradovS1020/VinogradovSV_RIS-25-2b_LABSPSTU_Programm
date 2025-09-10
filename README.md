@@ -4,4 +4,4 @@
 *Gensin Impact*
 # **Mavuika**
 # NAT*L*AN
-~~ NET ~~
+~NET~
