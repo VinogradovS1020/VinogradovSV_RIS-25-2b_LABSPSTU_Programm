@@ -36,6 +36,6 @@
 ![img34](https://avatars.mds.yandex.net/i?id=41ac93386f29a2f08119e4bd7af3be3df8d1b2b7-16464564-images-thumbs&n=13)
 
 
-\\\ C
+```C
 #print("hello, world!")
-\\\
+```
