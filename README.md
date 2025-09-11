@@ -23,3 +23,8 @@
    1. одиин один
    2. один два
    3. один три
+
+ССЫЛКИ:
+<https://wotpack.ru/kosiho-v-genshin-impact-kak-nayti-i-pobedit-cherepahu/>
+
+[Достижение](https://wotpack.ru/kosiho-v-genshin-impact-kak-nayti-i-pobedit-cherepahu/ Достижение косихо)
