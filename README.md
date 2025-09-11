@@ -28,3 +28,5 @@
 <https://wotpack.ru/kosiho-v-genshin-impact-kak-nayti-i-pobedit-cherepahu/>
 
 [Достижение](https://wotpack.ru/kosiho-v-genshin-impact-kak-nayti-i-pobedit-cherepahu/ "Достижение косихо")
+
+![img1](https://avatars.mds.yandex.net/i?id=4af96bcaf29685058d0344a420234780347ca8d5-5227965-images-thumbs&n=13 "КОТИК")
